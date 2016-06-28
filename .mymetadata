@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="PoiDemo"
+  id="myeclipse.1461152673210"
+  context-root="/PoiDemo"
+  j2ee-spec="5.0"
+  archive="PoiDemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
